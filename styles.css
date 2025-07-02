@@ -11,3 +11,8 @@ body {
    border: none;
    cursor: pointer;
 }
+
+footer {
+   margin-top: 100px;
+   color: #666
+}
